@@ -6,6 +6,8 @@ public class class1 {
         System.out.println("Hi There");
         //Added a new line
         System.out.println("changing");
+        //Amake Allah 4 pawai dao please
+        System.out.println("Allah 4 pawai dao");
 
     }
 }
